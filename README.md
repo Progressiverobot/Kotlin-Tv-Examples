@@ -20,7 +20,7 @@ Need more information about getting started with Android TV? Check the [official
 
 - [Android TV Introduction](http://www.android.com/tv/)
 - [Android TV Developer Documentation](http://developer.android.com/tv)
-- [Android TV Apps in Google Play Store][store-apps]
+
 
 ## Support
 
